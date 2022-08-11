@@ -7,5 +7,5 @@ I started my professional life as a (WordPress) Developer 2014, Then i become a 
 
 ![Jakiboy's github stats](https://github-readme-stats.vercel.app/api?username=Jakiboy&show_icons=true&theme=material-palenight)
 
-- 🔭 I’m currently working on a **digital software (Server/Client)**
+- 🔭 I’m currently working on a **Digital product (software) (Server/Client)**
 - 🌱 I’m currently learning **web3.0**
