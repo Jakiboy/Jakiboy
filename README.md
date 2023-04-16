@@ -1,9 +1,10 @@
 ### Hi there ✋
 
-*Im Jihad Sinnaour Aka (JS / Jakiboy), Software Engineer From Morocco (Marrakech),
-I got the MSc in 2017, Im a super passionated person who began with Reverse Engineering (Assembly, OllyDbg, Hiew...) and C/C++ Programming in age of 15.  
-++ I built my first desktop Software « Alphateque X » in 2009.  
-I started my professional life as a (WordPress) Web Developer in 2014, Then i become a huge fan of PHP.*
+*I am Jihad Sinnaour Aka (JS / Jakiboy), a software engineer based in Marrakech, Morocco. I obtained my MSc in 2017, and I have been passionate about software engineering since I was 15 years old. I started my journey with Reverse Engineering, including Assembly, OllyDbg, and Hiew, and progressed to C/C++ programming.*
+
+*I began my professional career in 2014 as a Web Developer, specializing in WordPress development. Through my work, I developed a passion for PHP and have since become an expert in the language.*
+
+*In terms of my strengths, I am highly motivated, and I have a keen eye for detail. I am also a quick learner and am always seeking to expand my knowledge in the field of software engineering.*
 
 ![Jakiboy's github stats](https://github-readme-stats.vercel.app/api?username=Jakiboy&show_icons=true&theme=codeSTACKr)
 
