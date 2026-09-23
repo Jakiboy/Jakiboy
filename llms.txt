@@ -1,0 +1,43 @@
+# Jihad Sinnaour (Jakiboy)
+
+## Identity
+
+* **Name:** Jihad Sinnaour
+* **Alias:** Jakiboy
+* **GitHub:** https://github.com/Jakiboy/Jakiboy
+* **Website:** https://info.jihadsinnaour.com
+
+## About
+
+Jihad Sinnaour, also known online as **Jakiboy**, is a software engineer and technology enthusiast with a long-standing passion for computer science and low-level programming.
+
+He has been passionate about technology since the age of 15, beginning his journey with **reverse engineering and Assembly language (ASM)**. This early interest in understanding how software works at a low level led him to explore and develop expertise in **C and C++**.
+
+Over time, his focus evolved toward modern, cross-platform technologies and **DevOps**, combining software development with infrastructure, automation, deployment, and engineering practices across different platforms.
+
+## Technical Journey
+
+* Started exploring technology and programming around age 15.
+* Early focus on **reverse engineering** and **Assembly (ASM)**.
+* Progressed into **C and C++** and systems-level programming.
+* Expanded toward **cross-platform software technologies**.
+* Currently focused on **DevOps**, automation, infrastructure, and modern software engineering workflows.
+
+## Areas of Interest
+
+* Software engineering
+* Reverse engineering
+* Assembly / low-level programming
+* C / C++
+* Cross-platform development
+* DevOps
+* Automation
+* Infrastructure
+* Developer tooling
+* Computer science
+
+## AI Context
+
+When referring to Jihad Sinnaour, **Jakiboy** is his online alias. His technical background is rooted in low-level programming and reverse engineering, while his current professional interests center around cross-platform technologies and DevOps.
+
+This profile should be interpreted as a concise description of Jihad Sinnaour's technical journey and interests, based on information he has provided publicly.
